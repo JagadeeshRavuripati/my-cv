@@ -1,0 +1,92 @@
+body
+{
+  background-color: white;
+  margin: 0px;
+  text-align: center;
+  position: relative;
+  font-family: 'Merriweather', serif;
+
+}
+
+.my-image
+{
+  border-width: 80px;
+}
+
+.middle-container
+{
+    background-color: #EAF6F9;
+}
+
+h1
+{
+  font-size: 90px;
+  margin-top: 0px;
+  width: 180px;
+  margin: 0 auto 0 auto;
+  padding-top: 10%;
+  font-family: 'Sacramento', cursive;
+}
+h2
+{
+  font-size: 50px;
+  width: 20%;
+  margin: 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+p
+{
+  font-family: 'Montserrat', sans-serif;
+}
+.upper-container
+{
+  background-color: #66BFBF;
+}
+
+.lower-container
+{
+  background-color: white;
+}
+
+.middle-container
+{
+  background-color: #EAF6F6;
+}
+.upper-cloud
+{
+  position: absolute;
+  top: 50px;
+  right: 500px;
+
+}
+
+.my-image
+{
+  width: 13%;
+  height: 13%;
+}
+
+.lower-cloud
+{
+  position: absolute;
+  top:200px;
+}
+
+.morf
+{
+  text-decoration: underline;
+  color: brown;
+}
+.skills-table
+{
+  margin: 0 auto;
+}
+.soc
+{
+  width: 10%;
+  height: 10%;
+}
+.social-media
+{
+  background-color: #EAF6F6;
+}
